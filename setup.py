@@ -2,7 +2,7 @@ from distutils.core import setup
 import dajaxice
 
 setup(
-    name='django-dajaxice-ng',
+    name='django-dajaxice',
     version=dajaxice.__version__string__,
     author='ifanr',
     author_email='ifanrx@ifanr.com',
